@@ -15,7 +15,7 @@
     background-image: url('http://paksef.com/wp-content/uploads/2015/08/facebook-icon-hover.png');
 }
 #Facebook:hover {
-    background-image: url('fb.png');
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/facebook-icon.png');
 }
 #Twitter {
     background-image: url('http://paksef.com/wp-content/uploads/2015/08/twitter-icon-hover.png');
@@ -24,10 +24,10 @@
     background-image: url('http://paksef.com/wp-content/uploads/2015/08/twitter-icon.png');
 }
 #LinkedIn {
-    background-image: url('fb.png');
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/Linkedin-icon-hover.png');
 }
 #LinkedIn:hover {
-    background-image: url('\fb.png');
+    background-image: url('http://paksef.com/wp-content/uploads/2015/08/Linkedin-icon.png');
 }
 
 .footer-distributed{
